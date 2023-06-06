@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="craps_game_logo.gif" alt="Craps Game Logo" width="200">
+  <img src="craps_game_logo.gif" alt="Craps Game Logo" height="200" width="1000">
 </div>
 
 # Craps Game
